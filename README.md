@@ -8,4 +8,6 @@ A Python script to upload files to my drive using PyDrive and Google Cloud Platf
 
 Though the article is missing out where you have to add a .json file from you GOOGLE Cloud platform into you directory
 
-+++This is my first README.md // I KNOW IT'S NOT A BIG DEAL :)//
+This is my first README.md  I KNOW IT'S NOT A BIG DEAL :)
+
+# Turns out google cloud platform has some restriction to large files and I don't think PyDrive can upload video files(nobody said it couldn't). 
